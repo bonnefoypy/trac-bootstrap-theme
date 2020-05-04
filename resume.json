@@ -1,0 +1,203 @@
+{
+    "basics": {
+        "name": "Pierre-Yves BONNEFOY",
+        "label": "CEO & Co-founder chez Olexya • Architecte Décisionnel • Expert BI Cognos / PowerBI / Tableau",
+        "picture": "",
+        "email": "bonnefoypy@gmail.com",
+        "phone": "0664988109",
+        "website": "",
+        "summary": "J'ai participé à un grand nombre de projets au cours de 15 années passées en société de services et chez les utilisateurs finaux, ce qui me confère une expérience dans des domaines techniques ou fonctionnels variés.\nMon parcours atypique me permet d’être polyvalent (développement de logiciel, systèmes et réseaux et informatique décisionnelle) et d’avoir une vision globale des systèmes d’informations.\nJe possède également plusieurs expériences réussies de gestion de projets en régie ou au forfait et de pilotage d’équipes.\n\nSpécialités : Informatique décisionnelle, développement, Système et réseaux",
+        "location": {
+            "address": "France",
+            "postalCode": "",
+            "city": "",
+            "countryCode": "FR",
+            "region": ""
+        },
+        "profiles": [{
+            "network": "LinkedIn",
+            "username": "bonnefoypy",
+            "url": "https://www.linkedin.com/in/bonnefoypy/"
+        }, {
+            "network": "Twitter",
+            "username": "bonnefoypy",
+            "url": "https://twitter.com/bonnefoypy"
+        }]
+    },
+    "work": [{
+        "company": "Olexya",
+        "endDate": "en cours",
+        "highlights": [],
+        "position": "CEO & Co-founder ",
+        "startDate": "2019-09-30",
+        "summary": "La vie professionnelle est constituée d’expériences, bonnes ou mauvaises, dont chacun s’enrichit au fil des années. \nParmi toutes ces expériences, les rencontres sont probablement les plus importantes et permettent de se constituer un réseau.\n \nLe réseau professionnel, terme un peu trop souvent usurpé, peut être un outil formidable pour réussir à réunir des entreprises à la recherche de la perle rare et des consultants qui ne demandent qu’à trouver la mission dans laquelle ils pourront le mieux exploiter leurs compétences. Mais un véritable réseau, c’est avant tout connaître personnellement un ensemble de professionnels d’un même secteur d’activité pour avoir eu l’occasion de travailler avec eux. \n \nOlexya est donc avant tout un réseau de confiance : Nous connaissons suffisamment une personne pour être capable de déterminer sa capacité à remplir une mission donnée, nous savons si la mission pourra répondre à ses attentes dans la durée, mais aussi et surtout nous nous portons garant de la qualité de son savoir faire et de son savoir être.\n \nParce que nous avons la conviction qu’il faut aller au-delà du curriculum vitae et de la fiche de poste pour espérer garantir une mission réussie, pour le client comme pour le consultant.\n \nOlexya, c’est le réseau avant tout.",
+        "website": "https://www.linkedin.com/company/19083117"
+    }, {
+        "company": "SNCF Réseau",
+        "endDate": "en cours",
+        "highlights": [],
+        "position": "Architecte Décisionnel Freelance pour SNCF Réseau",
+        "startDate": "2016-09-30",
+        "summary": "Architecte du projet de réurbanisation du SI décisionnel \nExpert Décisionnel\n- Hardskills : BO, Tableau, PowerBI, Web (Angular, Java), Kafka, Flink, NodeRed, Centos, Ubuntu, Streamsets \n- Softskills : Architecture, Optimisation, Administration, Installation, Préconisation, Réurbanisation, Formation, Audit\n\n",
+        "website": "https://www.linkedin.com/company/15082918"
+    }, {
+        "company": "Talan Solutions (EXL Group)",
+        "endDate": "2018-12-31",
+        "highlights": [],
+        "position": "Expert Décisionnel pour SNCF Réseau",
+        "startDate": "2011-10-31",
+        "summary": "Expertise Cognos / Power BI / Tableau\nResponsable de l’édition des logiciels techniques (SDK)\nConseil en architecture décisionnel\nAudit de SI, préconisation, conduite du changement\nConseil en veille technologique (Kafka, Node-Red, MongoDB)",
+        "website": "https://www.linkedin.com/company/478947"
+    }, {
+        "company": "Talan Solutions (EXL Group)",
+        "endDate": "2016-09-30",
+        "highlights": [],
+        "position": "Expert Décisionnel - GIE Sesam Vitale",
+        "startDate": "2014-01-31",
+        "summary": "Accompagnement client\nConseil en veille technologique\nRéalisation et formation Tableau Desktop \nRéalisation d’univers et de rapport sous BO XI R3\nPilotage de projet",
+        "website": "https://www.linkedin.com/company/478947"
+    }, {
+        "company": "Talan Solutions (EXL Group)",
+        "endDate": "2011-10-31",
+        "highlights": [],
+        "position": "Chef de projet décisionnel - SNCF",
+        "startDate": "2011-06-30",
+        "summary": "Projet NOB : Elaboration du budget Matériel:\n- Gestion des plannings des projets et des équipes\n- Réunion de suivi\n- Gestion des alertes\n- Propositions d’architecture décisionnelle et présentation à la MOA\n",
+        "website": "https://www.linkedin.com/company/478947"
+    }],
+    "volunteer": [],
+    "education": [{
+        "institution": "CESI entreprises",
+        "area": "",
+        "studyType": "Manager de proximité",
+        "startDate": "2014-12-31",
+        "endDate": "2015-12-31",
+        "gpa": "",
+        "courses": []
+    }, {
+        "institution": "E.N.I. Ecole Nantaise d’Informatique",
+        "area": "",
+        "studyType": "MCSE Microsoft Windows 2000",
+        "startDate": "2003-12-31",
+        "endDate": "2003-12-31",
+        "gpa": "",
+        "courses": []
+    }, {
+        "institution": "Lycée Touchard - Le Mans",
+        "area": "",
+        "studyType": "BTS Informatique Industrielle",
+        "startDate": "1999-12-31",
+        "endDate": "2001-12-31",
+        "gpa": "",
+        "courses": []
+    }],
+    "awards": [],
+    "publications": [],
+    "skills": [{
+        "name": "Informatique décisionnelle",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "SSIS",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Cognos",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Consulting",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "TalanSolutions (EXL Group)",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Apache Kafka",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Cognos analytics",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Tableau desktop",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Business Intelligence",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "IBM Cognos 10 BI Administrator",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Unix",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Projets de migration",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Tableau Software",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Cognos Mobile",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Windows",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "IBM Cognos TM1 Developer",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "IBM Cognos Analytics",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Cognos V7",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "IBM Cognos 10 BI Metadata Model Developer",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "IBM Cognos 10 BI Author",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "IBM Certified Solution Expert - Cognos BI",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Node-Red",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Microsoft PowerBI",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Linux",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Management",
+        "level": "",
+        "keywords": []
+    }],
+    "languages": [{
+        "language": "fr",
+        "fluency": "Native Speaker"
+    }],
+    "interests": [],
+    "references": []
+}
